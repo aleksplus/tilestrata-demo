@@ -7,7 +7,7 @@ var vtileraster = require('tilestrata-vtile-raster');
 var dependency = require('tilestrata-dependency');
 var headers = require('tilestrata-headers');
 var jsonp = require('tilestrata-jsonp');
-var sharp = require('tilestrata-sharp');
+//var sharp = require('tilestrata-sharp');
 var strata = tilestrata.createServer();
 
 var project = './style.xml';

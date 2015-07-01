@@ -6,9 +6,8 @@
   "dependencies": {
     "tilestrata": "aleksplus/tilestrata",
     "tilestrata-dependency": "^0.4.0",
-    "tilestrata-disk": "^0.1.1",
+    "tilestrata-disk": "aleksplus/tilestrata-disk",
     "tilestrata-mapnik": "^0.2.3",
-    "tilestrata-sharp": "^0.2.0",
     "underscore": "^1.8.3"
   },
   "devDependencies": {},
