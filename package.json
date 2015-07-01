@@ -7,7 +7,11 @@
     "tilestrata": "aleksplus/tilestrata",
     "tilestrata-dependency": "^0.4.0",
     "tilestrata-disk": "aleksplus/tilestrata-disk",
+    "tilestrata-headers": "^0.2.1",
+    "tilestrata-jsonp": "^0.1.2",
     "tilestrata-mapnik": "^0.2.3",
+    "tilestrata-vtile": "^0.1.0",
+    "tilestrata-vtile-raster": "^0.1.3",
     "underscore": "^1.8.3"
   },
   "devDependencies": {},
