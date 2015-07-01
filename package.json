@@ -1,0 +1,20 @@
+{
+  "name": "tilestrata-demo",
+  "version": "1.0.0",
+  "description": "node.js tile serving server",
+  "main": "server.js",
+  "dependencies": {
+    "tilestrata": "aleksplus/tilestrata",
+    "tilestrata-dependency": "^0.4.0",
+    "tilestrata-disk": "^0.1.1",
+    "tilestrata-mapnik": "^0.2.3",
+    "tilestrata-sharp": "^0.2.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
