@@ -1,0 +1,9 @@
+{
+  "tiles": {
+    "retina": true,
+    "xml": "style.xml",
+    "path": "/tmp/osm/",
+    "cacheDir": "/opt/osm/cache/",
+    "port": 8080
+  }
+}
