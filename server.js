@@ -6,7 +6,7 @@ var vtile = require('tilestrata-vtile');
 var headers = require('tilestrata-headers');
 var strata = tilestrata.createServer();
 
-var config = require('./config/main.json');
+var config = require('./config.js');
 var project = config.get('tiles:xml');
 var cacheDir = config.get('tiles:cacheDir');
 
